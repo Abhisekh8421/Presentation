@@ -5,8 +5,6 @@
 # Understanding Why We Need Class & Object
 
 
-#  Before Learning Class & Object…
-
 Before jumping into definitions,
 
 Let’s first understand:
