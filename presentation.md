@@ -159,7 +159,7 @@ let x = 10;
 let userAge = 10;
 ```
 
-👉 Use meaningful names
+Use meaningful names
 
 ---
 
